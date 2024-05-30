@@ -1,3 +1,5 @@
+//conversor de celcius para fahrenheit.
+
 alert('Vamos converter Celsius para Fahrenheit!');
 let celcius = prompt('Digite os graus celius: ');
     celcius = Number(celcius);
