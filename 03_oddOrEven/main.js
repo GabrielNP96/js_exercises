@@ -5,13 +5,13 @@ function oddOrEven(number) {
     }
 
     if(number % 2 == 0) {
-        return `${number} é par.`
+        return `${number} é par.`;
     } else {
-        return `${number} é ímpar.`
+        return `${number} é ímpar.`;
     }
 }
 
-console.log(oddOrEven(4))
-console.log(oddOrEven(1))
-console.log(oddOrEven(0))
-console.log(oddOrEven('1'))
+console.log(oddOrEven(4));
+console.log(oddOrEven(1));
+console.log(oddOrEven(0));
+console.log(oddOrEven('1'));
