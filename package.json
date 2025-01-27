@@ -1,0 +1,13 @@
+{
+  "name": "js_exercises",
+  "version": "1.0.0",
+  "description": "É um repositório com vários exercícios em javascript resolvidos por mim.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
